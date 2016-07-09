@@ -1,0 +1,29 @@
+* { 
+    padding:0; 
+    margin:0;
+}
+
+body {
+    background:black;
+}
+
+#game {
+    margin: 50px auto;   
+    display:block;
+    width: 800px;
+    height:600px;
+    cursor: none;
+}  
+
+#boundary{
+    stroke:#ffffff;
+    stroke-width:5px;
+}    
+
+#ball {
+    fill:#ffffff;   
+}   
+
+#paddle {
+    fill:#ffffff;
+}    

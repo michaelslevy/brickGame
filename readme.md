@@ -1,1 +1,1 @@
-A simple HTML5 brick game using SVG and Javascript
+Beginnings of a simple HTML5 brick game using SVG and Javascript
